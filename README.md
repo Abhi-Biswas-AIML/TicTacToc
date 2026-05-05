@@ -41,9 +41,9 @@ This project demonstrates:
 
 > ⚠️ Replace the links below with your actual screenshots
 
-![Screenshot 1](https://via.placeholder.com/250)
-![Screenshot 2](https://via.placeholder.com/250)
-![Screenshot 3](https://via.placeholder.com/250)
+![Screenshot 1](https://drive.google.com/file/d/1l3WZFM4PvkMWmzpz9TI0B0nGVUiV95ai/view?usp=drive_link)
+![Screenshot 2](https://drive.google.com/file/d/1P68eYCGyPgFzP0Zv2-xWtPE8xAPHimyv/view?usp=drive_link)
+![Screenshot 3](https://drive.google.com/file/d/1HCxqDK1QdZA3tx5MjzAERZd0CP_47KrP/view?usp=drive_link)
 
 ---
 
